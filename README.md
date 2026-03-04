@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jean</h1>
-<h3 align="left">A passionate builder from Brazil</h3>
+<h3 align="left">A passionate builder from Brazil and a devoted Samsung fan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangraff30" alt="jeangraff30" /> </p>
 
